@@ -1,3 +1,4 @@
+#Evita's Version
 # 1) Upload reads to cluster using Secure Copy Protocol (SCP)
 
 ### Log onto UCSB VPN (Ivanti Secure Access Client)
